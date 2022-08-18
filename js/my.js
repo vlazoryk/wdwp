@@ -1,1 +1,1 @@
-document.body.innerHTML = "Hello js"
+document.body.innerHTML = "Hello JavaScript"
